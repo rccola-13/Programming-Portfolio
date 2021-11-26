@@ -1,2 +1,2 @@
 # Programming-Portfolio
-A brief portfolio containing a few programming projects I have worked on in various languages, including JavaScript, SAS, and the MIPS processor.
+This repository is meant to serve as a brief programming portfolio that showcases some of my work in various languages. This ReadMe will briefly describe the function of each of the programs included in the repository, serving as a table of contents of sorts.
